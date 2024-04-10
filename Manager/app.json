@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Manager",
+    "slug": "Manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/online-delivery.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/online-delivery.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#222831"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/online-delivery.png",
+        "backgroundColor": "#222831"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
